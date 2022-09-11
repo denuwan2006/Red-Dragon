@@ -19,15 +19,15 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is lisa 🔥
+global.alivemsg = `My name is Blacky 🔥
 My Creator is blacky` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94788812611'] //Owner number in aive msg
-global.premium = ['+94788812611'] //Owner Number info
-global.ownernomer = '+94788812611' //Owner Number <<<
+global.owner = ['+94773596116'] //Owner number in aive msg
+global.premium = ['+94773596116'] //Owner Number info
+global.ownernomer = '+94773596116' //Owner Number <<<
 
 global.ownername = '😎blacky' //Owner Name
-global.botname = ' lisa 🔥 '  //Bot Name
+global.botname = ' blacky🔥 '  //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtube.com/shorts/cYHWeZroKKo?feature=share' //Change Your Button's URL
